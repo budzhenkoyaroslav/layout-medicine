@@ -200,7 +200,7 @@ span{
     max-width: 600px;
 }
 
-span{
+/* span{
     padding: 40px;
     background-color: white;
     text-align: left;
@@ -210,12 +210,21 @@ span{
     display: flex;
     height: 90px;
     width: 90px;
+} */
+
+
+svg{
+    width: 100px;
 }
-  
+.svg-span-1{
+    position:absolute ;
+    width: inherit;
+}
 }
 
 .svg-span-1{
     position:absolute ;
+    width: 40px;
 }
 
 svg{
