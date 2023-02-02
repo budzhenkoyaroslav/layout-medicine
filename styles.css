@@ -213,3 +213,12 @@ span{
 }
   
 }
+
+.svg-span-1{
+    position:absolute ;
+}
+
+svg{
+    height: 40px;
+    width: 40px;
+}
